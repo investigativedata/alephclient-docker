@@ -4,4 +4,4 @@ Docker image for alephclient
 
 Use:
 
-    docker run alephclient --help
+    docker run ghcr.io/investigativedata/alephclient --help
